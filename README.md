@@ -4,7 +4,7 @@ Who Wants To Be A Software Engineer is a full stack JavaScript application with 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Installing
 
@@ -40,4 +40,4 @@ npm run server:dev
 
 ### Using
 
-The application is running on port 300 so visit http://localhost:3000.
+The application is running on port 3000 so visit http://localhost:3000.
